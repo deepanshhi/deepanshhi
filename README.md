@@ -10,7 +10,7 @@
 🌱 **Currently Learning:** Diving deep into Back-end Development       
 🚀 **Exploring:** Innovative Tech Solutions and Latest Trends      
 📝 **Blog:** Check out my latest thoughts on tech and coding on [Twitter](https://twitter.com/Deepanshi135)       
-👯 **Collaborate:** I’m looking to collaborate with web developers to work on innovative projects         
+👯 **Collaborate:** I’m looking to collaborate with web developers on frontend projects         
 📫 **How to reach me:** [deepanshhi13@gmail.com](mailto:deepanshhi13@gmail.com)        
 
 
