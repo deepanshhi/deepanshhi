@@ -11,6 +11,7 @@
 🌱 **Currently Learning:** Diving deep into Full Stack Web Development  
 🚀 **Exploring:** Innovative Tech Solutions and Latest Trends  
 📝 **Blog:** Check out my latest thoughts on tech and coding on [Twitter](https://twitter.com/Deepanshi135)
+🚀 **Exploring:** Innovative Tech Solutions and Latest Trends  
 👯 **Collaborate:** I’m looking to collaborate with web developers to work on innovative projects
 📫 **How to reach me:** [deepanshhi13@gmail.com](mailto:deepanshhi13@gmail.com)
 
