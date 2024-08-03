@@ -3,10 +3,9 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5733&width=435&lines=Passionate+Web+Developer;AI+Enthusiast;Always+Learning+New+Things">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5733&width=435&lines=AI+Enthusiast;Passionate+Web+Developer;Always+Learning+New+Things">
 </p>
 
----
 
 🌱 **Currently Learning:** Diving deep into Back-end Development       
 🚀 **Exploring:** Innovative Tech Solutions and Latest Trends      
