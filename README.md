@@ -7,7 +7,7 @@
 </p>
 
 
-🌱 **Currently Learning:** Diving deep into Back-end Development       
+🌱 I’m currently pursuing a B.E in Computer Science and Engineering       
 🚀 **Exploring:** Innovative Tech Solutions and Latest Trends      
 📝 **Blog:** Check out my latest thoughts on tech and coding on [Twitter](https://twitter.com/Deepanshi135)       
 👯 **Collaborate:** I’m looking to collaborate with web developers on frontend projects         
@@ -49,7 +49,7 @@
 </p>
 
 
-
+<p align = 'left' ><img width = " 40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshhi&layout=compact" alt="deepanshhi" /></p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=TTThank+you+for+visiting+my+profile!!" alt="Typing SVG">
 </p>
