@@ -7,7 +7,7 @@
 </p>
 
 
-🌱 I’m currently pursuing a B.E in Computer Science and Engineering       
+🌱 I’m currently pursuing B.E in Computer Science        
 🚀 **Exploring:** Innovative Tech Solutions and Latest Trends      
 📝 **Blog:** Check out my latest thoughts on tech and coding on [Twitter](https://twitter.com/Deepanshi135)       
 👯 **Collaborate:** I’m looking to collaborate with web developers on frontend projects         
